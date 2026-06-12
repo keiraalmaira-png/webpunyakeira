@@ -456,4 +456,9 @@ footer .copyright a {
 .portfolio-thumb .portfolio-overlay {
 	padding-top: 60px;
 }
+.google_map iframe{
+width: 100%;
+height: 450px;
+border: none;
+}
 }
